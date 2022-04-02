@@ -1,0 +1,4 @@
+Nome: Denis - Sobrenome: Lopes - Ra: 12345
+Nome: Diogo - Sobrenome: Lopes - Ra: 12345
+Nome:  - Sobrenome:  - Ra: 
+Nome: fhdfh - Sobrenome: poi - Ra: 89
